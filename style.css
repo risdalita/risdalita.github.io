@@ -1,0 +1,26 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ffe4c4;
+}
+
+.jumbotron a {
+  text-decoration: none;
+  color: black;
+}
+
+.jumbotron a:hover {
+  color: brown;
+  font-weight: 340;
+  text-decoration: none;
+  cursor: pointer;
+  text-shadow: 2px 2px #ffe4c4;
+}
+
+#ourshop {
+  /* padding: 2rem; */
+  background-color: #ffe4c4;
+}
+
+section {
+  padding-top: 5rem;
+}
